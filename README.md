@@ -1,0 +1,2 @@
+# FavoritableColors
+Simple, ASCII, yes.
